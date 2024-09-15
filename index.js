@@ -248,7 +248,7 @@ app.listen(port, () => {
 
 const { joinVoiceChannel } = require('@discordjs/voice')
 client.on('ready', () => {
-  let channel = client.channels.cache.get("1131543375775027214")
+  let channel = client.channels.cache.get("1226237042954862644")
 
 
       const VoiceConnection = joinVoiceChannel({
