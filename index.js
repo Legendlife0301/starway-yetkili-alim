@@ -79,7 +79,7 @@ client.on('interactionCreate', async (interaction) => {
       return await interaction.reply({ content: '🚫 DM kutunuz kapalı olduğu için başvuruya başlayamıyorsunuz.', ephemeral: true });
     }
 
-    const sorularDizisi = [sorular.soru1, sorular.soru2, sorular.soru3, sorular.soru4, sorular.soru5];
+    const sorularDizisi = [sorular.soru1, sorular.soru2, sorular.soru3, sorular.soru4, sorular.soru5, sorular.soru6];
     const cevaplar = [];
 
     const sendQuestion = async () => {
