@@ -4,5 +4,4 @@ module.exports = {
     soru3: 'Günde kaç davet yapabilirsin?',
     soru4: 'Günde kaç saat aktif olabilirsin?',
     soru5: 'Bu sunucuya neler katacaksın?',
-    soru6: 'Tagımızı almayı kabul ediyor musun?',
   };
