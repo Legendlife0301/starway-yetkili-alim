@@ -1,1 +1,3 @@
-# starway-yetkili-alim
+# Starway Yetkili alım
+
+Starway sunucularina özel yetkili alım botudur.
